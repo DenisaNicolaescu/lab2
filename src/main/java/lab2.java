@@ -3,7 +3,7 @@ import java.util.*;
 public class lab2 {
     public static void main(String[] args) {
 
-
+        //2.7.1
         List<Integer> x = new ArrayList();
         List<Integer> y = new ArrayList();
         List<Integer> xPlusY = new ArrayList(); //a
@@ -58,6 +58,9 @@ public class lab2 {
         }
         xPlusYLimitedByP.addAll(Set);
         System.out.print("\nxPlusLimitedByP " + xPlusYLimitedByP);
+
+        //2.7.2
+        
 
 
     }
